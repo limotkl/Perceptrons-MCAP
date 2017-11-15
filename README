@@ -1,0 +1,13 @@
+B-number :B00657820
+Name : Fang Li
+E-mail: fli25@binghamton.edu
+
+
+run the code : python hw_3.py
+
+there are variables in the code used to control use MCAP or Perceptrons or use both and 'stopint' is used to mark whether delet stopwords or not  
+
+the best result are the following:
+
+	MCAP accuracy rate:0.953974895397
+	Perceptrons accuracy rate:0.94769874477
